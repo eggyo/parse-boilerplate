@@ -1,0 +1,5 @@
+build:
+  script:
+    - cd /home/ubuntu/auth-parse-server
+    - git pull
+
